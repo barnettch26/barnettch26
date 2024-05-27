@@ -2,7 +2,7 @@
 <p>I'm passionate about crafting efficient and user-friendly applications. I find enjoyment in working on projects that blend both design and engineering.</p>
 <h2>Get in Touch 📬</h1>
 <p>
-  <a href="https://linkedin.com/in/barnett-chengberlin" target="_blank">
+  <a href="https://linkedin.com/in/barnett-chengberlin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:barnett.chengberlin@outlook.com">
