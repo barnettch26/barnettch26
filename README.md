@@ -1,5 +1,5 @@
 <h2>Hi, I'm <a href="https://github.com/barnettch26">Barnett<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/></h1>
-<p>I'm passionate about crafting efficient and user-friendly applications. I find enjoyment in working on projects that blend both design and engineering.</p>
+<p>I like to build efficient and user-friendly applications. I find enjoyment in working on projects that blend both design and engineering.</p>
 <p>Visit my portfolio: <a href="https://barnettchengberlin.vercel.app">barnettchengberlin.vercel.app</a></p>
 <h2>Get in Touch 📬</h1>
 <p>
